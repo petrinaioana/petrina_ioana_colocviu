@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "petrina_ioana_colocviuContext"
+    }
+  }
+}
